@@ -20,5 +20,5 @@ Para utilizar o projeto em sua máquina, siga os passos abaixo:
 3. Configure o arquivo db.properties com as informações do seu banco de dados MySQL
 4. Compile o projeto e execute a classe Application.java
 
-Autor
+## Autor
 Este projeto foi desenvolvido por Pablo Oliveira, baseado nas aulas do curso de Java do professor Nélio Alves.
